@@ -44,7 +44,7 @@ a:hover {
 .cv__wrap {
     display: flex;
     flex-direction: row;
-    /* box-shadow: 1px 1px 10px rgba(, , , .5) ; */
+    height: 100%;
 }
 
 .main__wrap {
